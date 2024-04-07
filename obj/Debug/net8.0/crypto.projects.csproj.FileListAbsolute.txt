@@ -1,0 +1,15 @@
+D:\Archivos de progrma\Acceso rapido\Documentos\2024\Blockchain\Lab 2\Laboratorio_2_blockchain\bin\Debug\net8.0\crypto.projects.exe
+D:\Archivos de progrma\Acceso rapido\Documentos\2024\Blockchain\Lab 2\Laboratorio_2_blockchain\bin\Debug\net8.0\crypto.projects.deps.json
+D:\Archivos de progrma\Acceso rapido\Documentos\2024\Blockchain\Lab 2\Laboratorio_2_blockchain\bin\Debug\net8.0\crypto.projects.runtimeconfig.json
+D:\Archivos de progrma\Acceso rapido\Documentos\2024\Blockchain\Lab 2\Laboratorio_2_blockchain\bin\Debug\net8.0\crypto.projects.dll
+D:\Archivos de progrma\Acceso rapido\Documentos\2024\Blockchain\Lab 2\Laboratorio_2_blockchain\bin\Debug\net8.0\crypto.projects.pdb
+D:\Archivos de progrma\Acceso rapido\Documentos\2024\Blockchain\Lab 2\Laboratorio_2_blockchain\obj\Debug\net8.0\crypto.projects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos de progrma\Acceso rapido\Documentos\2024\Blockchain\Lab 2\Laboratorio_2_blockchain\obj\Debug\net8.0\crypto.projects.AssemblyInfoInputs.cache
+D:\Archivos de progrma\Acceso rapido\Documentos\2024\Blockchain\Lab 2\Laboratorio_2_blockchain\obj\Debug\net8.0\crypto.projects.AssemblyInfo.cs
+D:\Archivos de progrma\Acceso rapido\Documentos\2024\Blockchain\Lab 2\Laboratorio_2_blockchain\obj\Debug\net8.0\crypto.projects.csproj.CoreCompileInputs.cache
+D:\Archivos de progrma\Acceso rapido\Documentos\2024\Blockchain\Lab 2\Laboratorio_2_blockchain\obj\Debug\net8.0\crypto.projects.sourcelink.json
+D:\Archivos de progrma\Acceso rapido\Documentos\2024\Blockchain\Lab 2\Laboratorio_2_blockchain\obj\Debug\net8.0\crypto.projects.dll
+D:\Archivos de progrma\Acceso rapido\Documentos\2024\Blockchain\Lab 2\Laboratorio_2_blockchain\obj\Debug\net8.0\refint\crypto.projects.dll
+D:\Archivos de progrma\Acceso rapido\Documentos\2024\Blockchain\Lab 2\Laboratorio_2_blockchain\obj\Debug\net8.0\crypto.projects.pdb
+D:\Archivos de progrma\Acceso rapido\Documentos\2024\Blockchain\Lab 2\Laboratorio_2_blockchain\obj\Debug\net8.0\crypto.projects.genruntimeconfig.cache
+D:\Archivos de progrma\Acceso rapido\Documentos\2024\Blockchain\Lab 2\Laboratorio_2_blockchain\obj\Debug\net8.0\ref\crypto.projects.dll
